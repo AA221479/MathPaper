@@ -1,6 +1,6 @@
 # Paper 1: Math paper
 ### Author
-Ana Arribas Gil & Aurea Grané & third author
+Ana Arribas Gil & Elena & Eva
 ### Institution
 UC3M
 
